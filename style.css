@@ -81,3 +81,9 @@ body{
 .calculator_wrapper .form_multi_group button:hover{
     opacity:.8
 }
+.calculator_wrapper .fabric_size_output .fabric_size{
+    width: 300px;
+    height: 300px;
+    margin: 15px auto;
+    border: 2px solid #3B4E88;
+}
